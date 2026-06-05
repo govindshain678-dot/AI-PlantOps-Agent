@@ -1,0 +1,60 @@
+# AI PlantOps Agent
+
+## 🚀 Overview
+AI PlantOps Agent is an intelligent, enterprise-style system designed to enhance industrial plant operations by transforming raw sensor data into meaningful engineering insights.
+
+The system monitors plant data such as temperature, pressure, and flow, and provides real-time analysis, predictions, and recommendations — acting like a digital process engineer.
+
+---
+
+## 🎯 Problem
+Traditional systems like SCADA only display data and raise alarms.  
+They do not explain issues or predict future failures, requiring engineers to manually analyze conditions.
+
+This leads to:
+- Slow decision-making
+- Increased downtime
+- Higher operational costs
+- Potential safety risks
+
+---
+
+## 💡 Solution
+AI PlantOps Agent introduces an intelligent layer on top of plant data.  
+It analyzes sensor readings and automatically:
+
+- Detects anomalies
+- Identifies root causes
+- Predicts equipment failures
+- Recommends actions
+
+---
+
+## ⚙️ Features
+
+- ✅ Real-time monitoring  
+- ✅ Anomaly detection  
+- ✅ Root cause analysis  
+- ✅ Predictive maintenance  
+- ✅ Action recommendations  
+- ✅ Chat-based AI interaction  
+
+---
+
+## 🧠 How It Works
+
+1. Sensor data (Temperature, Pressure, Flow) is read from a dataset  
+2. AI agent analyzes the latest conditions  
+3. The system detects abnormalities  
+4. It explains the cause and predicts future risks  
+5. It suggests corrective actions  
+
+---
+
+## ▶️ How to Run
+
+1. Open a terminal in this folder  
+2. Run the program:
+
+```bash
+python chat_plantops_agent.py
